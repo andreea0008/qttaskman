@@ -1,0 +1,1 @@
+a simple task manager written in QT
